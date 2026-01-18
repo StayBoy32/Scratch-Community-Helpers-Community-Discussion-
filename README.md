@@ -1,2 +1,2 @@
 # Scratch-Community-Helpers-Community-Discussion-
-<span style="color:white; background:blue">blue background</span>
+<span style="color:red; background:blue">blue background<span>
